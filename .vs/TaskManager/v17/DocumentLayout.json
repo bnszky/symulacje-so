@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\micha\\source\\repos\\TaskManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC2AD2A-E6F6-468C-8807-35D28BBF3DF5}|TaskManager.csproj|c:\\users\\micha\\source\\repos\\taskmanager\\taskcontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC2AD2A-E6F6-468C-8807-35D28BBF3DF5}|TaskManager.csproj|solutionrelative:taskcontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC2AD2A-E6F6-468C-8807-35D28BBF3DF5}|TaskManager.csproj|c:\\users\\micha\\source\\repos\\taskmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC2AD2A-E6F6-468C-8807-35D28BBF3DF5}|TaskManager.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC2AD2A-E6F6-468C-8807-35D28BBF3DF5}|TaskManager.csproj|c:\\users\\micha\\source\\repos\\taskmanager\\tasksummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC2AD2A-E6F6-468C-8807-35D28BBF3DF5}|TaskManager.csproj|solutionrelative:tasksummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC2AD2A-E6F6-468C-8807-35D28BBF3DF5}|TaskManager.csproj|c:\\users\\micha\\source\\repos\\taskmanager\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC2AD2A-E6F6-468C-8807-35D28BBF3DF5}|TaskManager.csproj|solutionrelative:task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC2AD2A-E6F6-468C-8807-35D28BBF3DF5}|TaskManager.csproj|c:\\users\\micha\\source\\repos\\taskmanager\\algorithms\\rralgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC2AD2A-E6F6-468C-8807-35D28BBF3DF5}|TaskManager.csproj|solutionrelative:algorithms\\rralgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC2AD2A-E6F6-468C-8807-35D28BBF3DF5}|TaskManager.csproj|c:\\users\\micha\\source\\repos\\taskmanager\\algorithms\\sjfalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC2AD2A-E6F6-468C-8807-35D28BBF3DF5}|TaskManager.csproj|solutionrelative:algorithms\\sjfalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC2AD2A-E6F6-468C-8807-35D28BBF3DF5}|TaskManager.csproj|c:\\users\\micha\\source\\repos\\taskmanager\\algorithms\\algorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC2AD2A-E6F6-468C-8807-35D28BBF3DF5}|TaskManager.csproj|solutionrelative:algorithms\\algorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC2AD2A-E6F6-468C-8807-35D28BBF3DF5}|TaskManager.csproj|c:\\users\\micha\\source\\repos\\taskmanager\\algorithms\\fcfsalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC2AD2A-E6F6-468C-8807-35D28BBF3DF5}|TaskManager.csproj|solutionrelative:algorithms\\fcfsalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskSummary.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\source\\repos\\TaskManager\\TaskSummary.cs",
+              "RelativeDocumentMoniker": "TaskSummary.cs",
+              "ToolTip": "C:\\Users\\micha\\source\\repos\\TaskManager\\TaskSummary.cs",
+              "RelativeToolTip": "TaskSummary.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAADcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T10:20:43.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RRAlgorithm.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\source\\repos\\TaskManager\\Algorithms\\RRAlgorithm.cs",
+              "RelativeDocumentMoniker": "Algorithms\\RRAlgorithm.cs",
+              "ToolTip": "C:\\Users\\micha\\source\\repos\\TaskManager\\Algorithms\\RRAlgorithm.cs",
+              "RelativeToolTip": "Algorithms\\RRAlgorithm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T09:57:04.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SJFAlgorithm.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\source\\repos\\TaskManager\\Algorithms\\SJFAlgorithm.cs",
+              "RelativeDocumentMoniker": "Algorithms\\SJFAlgorithm.cs",
+              "ToolTip": "C:\\Users\\micha\\source\\repos\\TaskManager\\Algorithms\\SJFAlgorithm.cs",
+              "RelativeToolTip": "Algorithms\\SJFAlgorithm.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAACQAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T22:24:16.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FCFSAlgorithm.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\source\\repos\\TaskManager\\Algorithms\\FCFSAlgorithm.cs",
+              "RelativeDocumentMoniker": "Algorithms\\FCFSAlgorithm.cs",
+              "ToolTip": "C:\\Users\\micha\\source\\repos\\TaskManager\\Algorithms\\FCFSAlgorithm.cs",
+              "RelativeToolTip": "Algorithms\\FCFSAlgorithm.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAkwCgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T20:53:35.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Algorithm.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\source\\repos\\TaskManager\\Algorithms\\Algorithm.cs",
+              "RelativeDocumentMoniker": "Algorithms\\Algorithm.cs",
+              "ToolTip": "C:\\Users\\micha\\source\\repos\\TaskManager\\Algorithms\\Algorithm.cs",
+              "RelativeToolTip": "Algorithms\\Algorithm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T19:46:51.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskContainer.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\source\\repos\\TaskManager\\TaskContainer.cs",
+              "RelativeDocumentMoniker": "TaskContainer.cs",
+              "ToolTip": "C:\\Users\\micha\\source\\repos\\TaskManager\\TaskContainer.cs",
+              "RelativeToolTip": "TaskContainer.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABEAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T18:53:27.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\source\\repos\\TaskManager\\Task.cs",
+              "RelativeDocumentMoniker": "Task.cs",
+              "ToolTip": "C:\\Users\\micha\\source\\repos\\TaskManager\\Task.cs",
+              "RelativeToolTip": "Task.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T18:47:45.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\source\\repos\\TaskManager\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\micha\\source\\repos\\TaskManager\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T16:39:54.149Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
