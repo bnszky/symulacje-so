@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\micha\\source\\repos\\DiskSimulation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33AA60B6-DC5E-46AB-B0EC-A82E8C2D9C0D}|DiskSimulation.csproj|c:\\users\\micha\\source\\repos\\disksimulation\\algorithms\\cscan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33AA60B6-DC5E-46AB-B0EC-A82E8C2D9C0D}|DiskSimulation.csproj|solutionrelative:algorithms\\cscan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AA60B6-DC5E-46AB-B0EC-A82E8C2D9C0D}|DiskSimulation.csproj|c:\\users\\micha\\source\\repos\\disksimulation\\algorithms\\scan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33AA60B6-DC5E-46AB-B0EC-A82E8C2D9C0D}|DiskSimulation.csproj|solutionrelative:algorithms\\scan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AA60B6-DC5E-46AB-B0EC-A82E8C2D9C0D}|DiskSimulation.csproj|c:\\users\\micha\\source\\repos\\disksimulation\\algorithms\\imanageblealgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33AA60B6-DC5E-46AB-B0EC-A82E8C2D9C0D}|DiskSimulation.csproj|solutionrelative:algorithms\\imanageblealgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AA60B6-DC5E-46AB-B0EC-A82E8C2D9C0D}|DiskSimulation.csproj|c:\\users\\micha\\source\\repos\\disksimulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33AA60B6-DC5E-46AB-B0EC-A82E8C2D9C0D}|DiskSimulation.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AA60B6-DC5E-46AB-B0EC-A82E8C2D9C0D}|DiskSimulation.csproj|c:\\users\\micha\\source\\repos\\disksimulation\\statistics\\statisticsrealtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33AA60B6-DC5E-46AB-B0EC-A82E8C2D9C0D}|DiskSimulation.csproj|solutionrelative:statistics\\statisticsrealtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AA60B6-DC5E-46AB-B0EC-A82E8C2D9C0D}|DiskSimulation.csproj|c:\\users\\micha\\source\\repos\\disksimulation\\statistics\\statisticsbasic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33AA60B6-DC5E-46AB-B0EC-A82E8C2D9C0D}|DiskSimulation.csproj|solutionrelative:statistics\\statisticsbasic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AA60B6-DC5E-46AB-B0EC-A82E8C2D9C0D}|DiskSimulation.csproj|c:\\users\\micha\\source\\repos\\disksimulation\\statistics\\statistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33AA60B6-DC5E-46AB-B0EC-A82E8C2D9C0D}|DiskSimulation.csproj|solutionrelative:statistics\\statistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AA60B6-DC5E-46AB-B0EC-A82E8C2D9C0D}|DiskSimulation.csproj|c:\\users\\micha\\source\\repos\\disksimulation\\simulationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33AA60B6-DC5E-46AB-B0EC-A82E8C2D9C0D}|DiskSimulation.csproj|solutionrelative:simulationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AA60B6-DC5E-46AB-B0EC-A82E8C2D9C0D}|DiskSimulation.csproj|c:\\users\\micha\\source\\repos\\disksimulation\\algorithms\\sstf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33AA60B6-DC5E-46AB-B0EC-A82E8C2D9C0D}|DiskSimulation.csproj|solutionrelative:algorithms\\sstf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AA60B6-DC5E-46AB-B0EC-A82E8C2D9C0D}|DiskSimulation.csproj|c:\\users\\micha\\source\\repos\\disksimulation\\algorithms\\fdscan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33AA60B6-DC5E-46AB-B0EC-A82E8C2D9C0D}|DiskSimulation.csproj|solutionrelative:algorithms\\fdscan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AA60B6-DC5E-46AB-B0EC-A82E8C2D9C0D}|DiskSimulation.csproj|c:\\users\\micha\\source\\repos\\disksimulation\\algorithms\\fcfs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33AA60B6-DC5E-46AB-B0EC-A82E8C2D9C0D}|DiskSimulation.csproj|solutionrelative:algorithms\\fcfs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AA60B6-DC5E-46AB-B0EC-A82E8C2D9C0D}|DiskSimulation.csproj|c:\\users\\micha\\source\\repos\\disksimulation\\algorithms\\edf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33AA60B6-DC5E-46AB-B0EC-A82E8C2D9C0D}|DiskSimulation.csproj|solutionrelative:algorithms\\edf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AA60B6-DC5E-46AB-B0EC-A82E8C2D9C0D}|DiskSimulation.csproj|c:\\users\\micha\\source\\repos\\disksimulation\\disktask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33AA60B6-DC5E-46AB-B0EC-A82E8C2D9C0D}|DiskSimulation.csproj|solutionrelative:disktask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StatisticsBasic.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\source\\repos\\DiskSimulation\\Statistics\\StatisticsBasic.cs",
+              "RelativeDocumentMoniker": "Statistics\\StatisticsBasic.cs",
+              "ToolTip": "C:\\Users\\micha\\source\\repos\\DiskSimulation\\Statistics\\StatisticsBasic.cs",
+              "RelativeToolTip": "Statistics\\StatisticsBasic.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAAC4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T09:39:29.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\source\\repos\\DiskSimulation\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\micha\\source\\repos\\DiskSimulation\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T07:34:12.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Statistics.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\source\\repos\\DiskSimulation\\Statistics\\Statistics.cs",
+              "RelativeDocumentMoniker": "Statistics\\Statistics.cs",
+              "ToolTip": "C:\\Users\\micha\\source\\repos\\DiskSimulation\\Statistics\\Statistics.cs",
+              "RelativeToolTip": "Statistics\\Statistics.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAAB8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T07:44:37.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SSTF.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\source\\repos\\DiskSimulation\\Algorithms\\SSTF.cs",
+              "RelativeDocumentMoniker": "Algorithms\\SSTF.cs",
+              "ToolTip": "C:\\Users\\micha\\source\\repos\\DiskSimulation\\Algorithms\\SSTF.cs",
+              "RelativeToolTip": "Algorithms\\SSTF.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowBkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T19:35:26.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CScan.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\source\\repos\\DiskSimulation\\Algorithms\\CScan.cs",
+              "RelativeDocumentMoniker": "Algorithms\\CScan.cs",
+              "ToolTip": "C:\\Users\\micha\\source\\repos\\DiskSimulation\\Algorithms\\CScan.cs",
+              "RelativeToolTip": "Algorithms\\CScan.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T20:56:48.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FCFS.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\source\\repos\\DiskSimulation\\Algorithms\\FCFS.cs",
+              "RelativeDocumentMoniker": "Algorithms\\FCFS.cs",
+              "ToolTip": "C:\\Users\\micha\\source\\repos\\DiskSimulation\\Algorithms\\FCFS.cs",
+              "RelativeToolTip": "Algorithms\\FCFS.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T18:28:21.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Scan.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\source\\repos\\DiskSimulation\\Algorithms\\Scan.cs",
+              "RelativeDocumentMoniker": "Algorithms\\Scan.cs",
+              "ToolTip": "C:\\Users\\micha\\source\\repos\\DiskSimulation\\Algorithms\\Scan.cs",
+              "RelativeToolTip": "Algorithms\\Scan.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T20:46:34.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StatisticsRealTime.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\source\\repos\\DiskSimulation\\Statistics\\StatisticsRealTime.cs",
+              "RelativeDocumentMoniker": "Statistics\\StatisticsRealTime.cs",
+              "ToolTip": "C:\\Users\\micha\\source\\repos\\DiskSimulation\\Statistics\\StatisticsRealTime.cs",
+              "RelativeToolTip": "Statistics\\StatisticsRealTime.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T10:14:29.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FDSCAN.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\source\\repos\\DiskSimulation\\Algorithms\\FDSCAN.cs",
+              "RelativeDocumentMoniker": "Algorithms\\FDSCAN.cs",
+              "ToolTip": "C:\\Users\\micha\\source\\repos\\DiskSimulation\\Algorithms\\FDSCAN.cs",
+              "RelativeToolTip": "Algorithms\\FDSCAN.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T21:44:40.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IManagebleAlgorithm.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\source\\repos\\DiskSimulation\\Algorithms\\IManagebleAlgorithm.cs",
+              "RelativeDocumentMoniker": "Algorithms\\IManagebleAlgorithm.cs",
+              "ToolTip": "C:\\Users\\micha\\source\\repos\\DiskSimulation\\Algorithms\\IManagebleAlgorithm.cs",
+              "RelativeToolTip": "Algorithms\\IManagebleAlgorithm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T07:13:41.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SimulationHandler.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\source\\repos\\DiskSimulation\\SimulationHandler.cs",
+              "RelativeDocumentMoniker": "SimulationHandler.cs",
+              "ToolTip": "C:\\Users\\micha\\source\\repos\\DiskSimulation\\SimulationHandler.cs",
+              "RelativeToolTip": "SimulationHandler.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAAAIgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T07:23:00.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EDF.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\source\\repos\\DiskSimulation\\Algorithms\\EDF.cs",
+              "RelativeDocumentMoniker": "Algorithms\\EDF.cs",
+              "ToolTip": "C:\\Users\\micha\\source\\repos\\DiskSimulation\\Algorithms\\EDF.cs",
+              "RelativeToolTip": "Algorithms\\EDF.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T21:13:08.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DiskTask.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\source\\repos\\DiskSimulation\\DiskTask.cs",
+              "RelativeDocumentMoniker": "DiskTask.cs",
+              "ToolTip": "C:\\Users\\micha\\source\\repos\\DiskSimulation\\DiskTask.cs",
+              "RelativeToolTip": "DiskTask.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwBEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T07:38:32.321Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
