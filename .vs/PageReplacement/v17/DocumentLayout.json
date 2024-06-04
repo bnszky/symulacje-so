@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\micha\\source\\repos\\PageReplacement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCE5FCA-C0C3-4915-B1D3-1D41558F5010}|PageReplacement.csproj|c:\\users\\micha\\source\\repos\\pagereplacement\\simulationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCE5FCA-C0C3-4915-B1D3-1D41558F5010}|PageReplacement.csproj|solutionrelative:simulationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCE5FCA-C0C3-4915-B1D3-1D41558F5010}|PageReplacement.csproj|c:\\users\\micha\\source\\repos\\pagereplacement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCE5FCA-C0C3-4915-B1D3-1D41558F5010}|PageReplacement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCE5FCA-C0C3-4915-B1D3-1D41558F5010}|PageReplacement.csproj|c:\\users\\micha\\source\\repos\\pagereplacement\\algorithms\\lru.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCE5FCA-C0C3-4915-B1D3-1D41558F5010}|PageReplacement.csproj|solutionrelative:algorithms\\lru.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCE5FCA-C0C3-4915-B1D3-1D41558F5010}|PageReplacement.csproj|c:\\users\\micha\\source\\repos\\pagereplacement\\statistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCE5FCA-C0C3-4915-B1D3-1D41558F5010}|PageReplacement.csproj|solutionrelative:statistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCE5FCA-C0C3-4915-B1D3-1D41558F5010}|PageReplacement.csproj|c:\\users\\micha\\source\\repos\\pagereplacement\\algorithms\\rand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCE5FCA-C0C3-4915-B1D3-1D41558F5010}|PageReplacement.csproj|solutionrelative:algorithms\\rand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCE5FCA-C0C3-4915-B1D3-1D41558F5010}|PageReplacement.csproj|c:\\users\\micha\\source\\repos\\pagereplacement\\algorithms\\approxlru.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCE5FCA-C0C3-4915-B1D3-1D41558F5010}|PageReplacement.csproj|solutionrelative:algorithms\\approxlru.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCE5FCA-C0C3-4915-B1D3-1D41558F5010}|PageReplacement.csproj|c:\\users\\micha\\source\\repos\\pagereplacement\\algorithms\\fifo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCE5FCA-C0C3-4915-B1D3-1D41558F5010}|PageReplacement.csproj|solutionrelative:algorithms\\fifo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCE5FCA-C0C3-4915-B1D3-1D41558F5010}|PageReplacement.csproj|c:\\users\\micha\\source\\repos\\pagereplacement\\algorithms\\opt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCE5FCA-C0C3-4915-B1D3-1D41558F5010}|PageReplacement.csproj|solutionrelative:algorithms\\opt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCE5FCA-C0C3-4915-B1D3-1D41558F5010}|PageReplacement.csproj|c:\\users\\micha\\source\\repos\\pagereplacement\\algorithms\\ialgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCE5FCA-C0C3-4915-B1D3-1D41558F5010}|PageReplacement.csproj|solutionrelative:algorithms\\ialgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCE5FCA-C0C3-4915-B1D3-1D41558F5010}|PageReplacement.csproj|c:\\users\\micha\\source\\repos\\pagereplacement\\pagereplacement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2CCE5FCA-C0C3-4915-B1D3-1D41558F5010}|PageReplacement.csproj|solutionrelative:pagereplacement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RAND.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\source\\repos\\PageReplacement\\Algorithms\\RAND.cs",
+              "RelativeDocumentMoniker": "Algorithms\\RAND.cs",
+              "ToolTip": "C:\\Users\\micha\\source\\repos\\PageReplacement\\Algorithms\\RAND.cs",
+              "RelativeToolTip": "Algorithms\\RAND.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T09:23:08.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LRU.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\source\\repos\\PageReplacement\\Algorithms\\LRU.cs",
+              "RelativeDocumentMoniker": "Algorithms\\LRU.cs",
+              "ToolTip": "C:\\Users\\micha\\source\\repos\\PageReplacement\\Algorithms\\LRU.cs",
+              "RelativeToolTip": "Algorithms\\LRU.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T08:08:22.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FIFO.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\source\\repos\\PageReplacement\\Algorithms\\FIFO.cs",
+              "RelativeDocumentMoniker": "Algorithms\\FIFO.cs",
+              "ToolTip": "C:\\Users\\micha\\source\\repos\\PageReplacement\\Algorithms\\FIFO.cs",
+              "RelativeToolTip": "Algorithms\\FIFO.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwBkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T07:06:23.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAlgorithm.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\source\\repos\\PageReplacement\\Algorithms\\IAlgorithm.cs",
+              "RelativeDocumentMoniker": "Algorithms\\IAlgorithm.cs",
+              "ToolTip": "C:\\Users\\micha\\source\\repos\\PageReplacement\\Algorithms\\IAlgorithm.cs",
+              "RelativeToolTip": "Algorithms\\IAlgorithm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T06:36:55.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PageReplacement.csproj",
+              "DocumentMoniker": "C:\\Users\\micha\\source\\repos\\PageReplacement\\PageReplacement.csproj",
+              "RelativeDocumentMoniker": "PageReplacement.csproj",
+              "ToolTip": "C:\\Users\\micha\\source\\repos\\PageReplacement\\PageReplacement.csproj",
+              "RelativeToolTip": "PageReplacement.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-21T06:36:26.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\source\\repos\\PageReplacement\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\micha\\source\\repos\\PageReplacement\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAADwvx8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T06:07:05.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SimulationHandler.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\source\\repos\\PageReplacement\\SimulationHandler.cs",
+              "RelativeDocumentMoniker": "SimulationHandler.cs",
+              "ToolTip": "C:\\Users\\micha\\source\\repos\\PageReplacement\\SimulationHandler.cs",
+              "RelativeToolTip": "SimulationHandler.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAmwGUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T06:32:34.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Statistics.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\source\\repos\\PageReplacement\\Statistics.cs",
+              "RelativeDocumentMoniker": "Statistics.cs",
+              "ToolTip": "C:\\Users\\micha\\source\\repos\\PageReplacement\\Statistics.cs",
+              "RelativeToolTip": "Statistics.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T06:09:44.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApproxLRU.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\source\\repos\\PageReplacement\\Algorithms\\ApproxLRU.cs",
+              "RelativeDocumentMoniker": "Algorithms\\ApproxLRU.cs",
+              "ToolTip": "C:\\Users\\micha\\source\\repos\\PageReplacement\\Algorithms\\ApproxLRU.cs",
+              "RelativeToolTip": "Algorithms\\ApproxLRU.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T08:52:25.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OPT.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\source\\repos\\PageReplacement\\Algorithms\\OPT.cs",
+              "RelativeDocumentMoniker": "Algorithms\\OPT.cs",
+              "ToolTip": "C:\\Users\\micha\\source\\repos\\PageReplacement\\Algorithms\\OPT.cs",
+              "RelativeToolTip": "Algorithms\\OPT.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAtwBIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T07:31:40.876Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
