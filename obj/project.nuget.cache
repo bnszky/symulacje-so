@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "mcBICNY7uZpXAtA6IxffGUq3F3Ocb+4J+eQc00Sn2btcE8+osEVoGqe1vM4aQTUO2Ry7qUKAL3140ROWnvZFng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\micha\\source\\repos\\PageReplacement2\\PageReplacement2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\micha\\.nuget\\packages\\scottplot\\5.0.34\\scottplot.5.0.34.nupkg.sha512",
+    "C:\\Users\\micha\\.nuget\\packages\\skiasharp\\2.88.8\\skiasharp.2.88.8.nupkg.sha512",
+    "C:\\Users\\micha\\.nuget\\packages\\skiasharp.nativeassets.linux.nodependencies\\2.88.8\\skiasharp.nativeassets.linux.nodependencies.2.88.8.nupkg.sha512",
+    "C:\\Users\\micha\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.8\\skiasharp.nativeassets.macos.2.88.8.nupkg.sha512",
+    "C:\\Users\\micha\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.8\\skiasharp.nativeassets.win32.2.88.8.nupkg.sha512"
+  ],
+  "logs": []
+}
